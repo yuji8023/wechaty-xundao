@@ -1,3 +1,4 @@
+fork from [https://github.com/wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot)
 # WeChat Bot
 
 一个 基于 `chatgpt` + `wechaty` 的微信机器人
